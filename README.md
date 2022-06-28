@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROHAN28SAM
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Automation Testing 
+- 🌱 I’m currently learning php and backend technology 
 - 📫 How to reach me Mail Id- rohan.sambhudas@gmail.com
 
 <!---

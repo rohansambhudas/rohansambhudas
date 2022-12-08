@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohansambhudas?tab=repositories](https://github.com/rohansambhudas?tab=repositories)
 
-- 📝 I regularly write articles on [medium.com/@rohan.sambhudas](medium.com/@rohan.sambhudas)
+- 📝 I regularly write articles on [medium.com/@rohansambhudas](medium.com/@rohansambhudas)
 
 - 💬 Ask me about **Web based application Automation and how it can potentially save you 100s of hours**
 

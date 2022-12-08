@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan V Sambhudas</h1>
 <h3 align="center">I'm a Quality Engineer who believes that QE has the most important role in SDLC. With my experience in testing, Looking forward to expand my skillsets and capture opportunities in testing and development of web-based applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan28sam&label=Profile%20views&color=0e75b6&style=flat" alt="rohan28sam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansambhudas&label=Profile%20views&color=0e75b6&style=flat" alt="rohansambhudas" /> </p>
 
 - 🔭 I’m currently working as **Manual and Automation Tester**
 

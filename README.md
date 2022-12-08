@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working as **Manual and Automation Tester**
 
-- 🌱 I’m currently learning **Database and php**
+- 🌱 I’m currently learning **Full Stack JavaScript**
 
 - 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
 - 🤝 I’m looking for help with **Remote Full Time Development Opportunities**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ROHAN28SAM?tab=repositories](https://github.com/ROHAN28SAM?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rohansambhudas?tab=repositories](https://github.com/rohansambhudas?tab=repositories)
 
 - 📝 I regularly write articles on [medium.com/@rohan.sambhudas](medium.com/@rohan.sambhudas)
 

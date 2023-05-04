@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan V Sambhudas</h1>
-<h3 align="center">I was a Quality Engineer who now turned as a self learned Web Developer. With experience in testing now I am looking forward to expand my skillsets and capture opportunities in development of web-based application.</h3>
+<h3 align="center">I am a MERN stack developer with a focus on the front end. I have been working in web development for 2 years and have a strong passion for building robust and scalable applications. As a web developer, I am proficient in both front-end and back-end with a deep understanding of modern web development frameworks, libraries, and design patterns. In my previous roles, I have worked on various projects ranging from small-scale applications to large ones. I also have experience in QA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansambhudas&label=Profile%20views&color=0e75b6&style=flat" alt="rohansambhudas" /> </p>
 
